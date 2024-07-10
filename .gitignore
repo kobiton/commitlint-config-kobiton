@@ -1,0 +1,11 @@
+.idea/
+.DS_Store
+*.log
+node_modules
+package-lock.json
+.npm
+.nyc_output
+lib/
+/*.iml
+tsconfig.tsbuildinfo
+coverage
